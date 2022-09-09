@@ -65,11 +65,3 @@ except smtplib.SMTPAuthenticationError:
 except smtplib.SMTPConnectError:
     print('\n[!] Failed to connect with the SMTP server')
     sys.exit()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
