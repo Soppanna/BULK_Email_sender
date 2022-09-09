@@ -6,6 +6,7 @@ Installation
 Download the tool:
 
 $ git clone https://github.com/Soppanna/BULK_Email_sender.git
+
 $ cd BULK_Email_sender
 
 Run it with python 2 (deprecated):
