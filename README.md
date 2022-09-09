@@ -6,7 +6,7 @@ Installation
 
 Download the tool:
 
-$ git clone https://github.com/ Soppanna /BULK_Email_sender.git
+$ git clone https://github.com/Soppanna/BULK_Email_sender.git
 $ cd Email-Bomber
 
 Run it with python 2 (deprecated):
